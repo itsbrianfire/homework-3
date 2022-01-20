@@ -40,7 +40,7 @@ Created the added variables in the javascript for this site and deployed them to
 
 ## Screenshots
 
-![App Screenshot] (/homework-3/Assets/Password-Generator-Screenshot.png "Password Generator Screenshot")
+![App Screenshot] (/homework-3/Password-Generator-Screenshot.png "Password Generator Screenshot")
 
 ## Contributing
 
