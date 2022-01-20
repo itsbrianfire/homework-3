@@ -1,18 +1,18 @@
-# 03 JavaScript: Password Generator
+# Table of Contents
 
-## Your Task
+- Description
+- Acceptance Criteria
+- Developer's Code Contributions
+- Screenshots
+- Contributing
+- Link To Deployed
+- Support and Developer Contact
+- License
 
-This week’s homework requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+# Description
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+I was required to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected: password length between 8-128, lower case, upper case, numbers, and special characters. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
-## User Story
-
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
 
 ## Acceptance Criteria
 
@@ -34,59 +34,28 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+## Developer's Code Contributions
 
-The following image shows the web application's appearance and functionality:
+Created the added variables in the javascript for this site and deployed them to GitHub.
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+## Screenshots
 
-## Grading Requirements
+![App Screenshot] (/homework-3/Assets/Password-Generator-Screenshot.png "Password Generator Screenshot")
 
-This homework is graded based on the following criteria: 
+## Contributing
 
-### Technical Acceptance Criteria: 40%
+Contributions are always welcome! Please fork this code to get started.
 
-* Satisfies all of the preceding acceptance criteria plus the following:
+Please adhere to this project's `code of conduct`. For additional guidance, please see the **Support and Developer Contact** section.
 
-  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
+## Link To Deployed
 
-### Deployment: 32%
+The way to run this application is via this link: https://itsbrianfire.github.io/homework-3/
 
-* Application deployed at live URL.
 
-* Application loads with no errors.
+## Support and Developer Contact
 
-* Application GitHub URL submitted.
+For support, please contact the developer at brianhgarcia@gmail.com or reach out to Brian Garcia in the **GT-ATL-VIRT-FSF-PT-12-2021-U-C** Slack Workspace.
 
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the homework instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
